@@ -1,7 +1,7 @@
 Greg Albrecht's Resume
 ---
-* [PDF](https://github.com/ampledata/resume/blob/develop/greg_albrecht_resume.pdf)
-* [Word](https://github.com/ampledata/resume/blob/develop/greg_albrecht_resume.doc?raw=true)
+* In [PDF](https://github.com/ampledata/resume/blob/develop/greg_albrecht_resume.pdf?raw=true) format.
+* In [Word](https://github.com/ampledata/resume/blob/develop/greg_albrecht_resume.doc?raw=true) format.
 
 Greg Albrecht's Contact Information
 ---
